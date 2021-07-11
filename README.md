@@ -2,8 +2,10 @@
 
 Instatags is a tool that generates random tags for your profile picture, photos and post[DCP '21]
 
-<img src="https://github.com/Ayush7614/Instatags/blob/master/instatags.png" alt="Poster" />
-
+ <p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Instatags/blob/master/instatags.png" width=1000px, height=900px 
+ </a> 
+</p>
 
 ## Open Source Programs 
 <img src="https://github.com/Ayush7614/Instatags/blob/master/devincept.gif" alt="DevIncept" />
