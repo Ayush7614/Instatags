@@ -168,4 +168,21 @@ Wait for your submission to be accepted and your PR to be merged by a maintainer
 <a href="https://devincept.tech/" ><img src="https://user-images.githubusercontent.com/56088741/123548852-1ef59d00-d784-11eb-8e39-255e0c3e97d5.gif" width="35%" ></a>
 
 </p>
+ 
+---
+ 
+## Project Maintainers
 
+## 🌟 Contributors:
+
+Thanks to these wonderful people ✨✨:
+
+<table>
+	<tr>
+		 <td>
+  <a href="https://github.com/Ayush7614/Instatags/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ayush7614/Instatags" />
+  </a>
+		</td>
+	</tr>
+</table>
